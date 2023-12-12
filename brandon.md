@@ -18,7 +18,7 @@ brandon "ignore errors related to typo like these"
 
 ai "125, 000 points of conflicts remain, like some users want the first three options in settimgs to be 'sound, language, manchurian' and some 'sound, language , macros'"
 
-and bramdon finally gave up for today. Then news came up, Googlo, seeing the popularity of termux finally released tagmux with 50 of its best employees working o. it. And brandon wnet to check it out mad compare it with his child.
+and bramdon finally gave up for today. Then news came up, Googlo, seeing the popularity of termux finally released tagmux with 50 of its best employees working o. it. And brandon wnet to check it out and compare it with his child.
 
 He first saw, that the ui had something ant it. It looked really good and felt imtuitive to use, unlike his one where the options were just here amd there. Like a developer who had a deadline of 3 hours, and he hadd to place the ui elements in a rush.
 
