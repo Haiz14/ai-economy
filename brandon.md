@@ -11,6 +11,7 @@ he got the idea listen to what the customer asks in review, rather than adding a
 here's a little interaction between brandon and ai, with the gosl to lsiten to all reviews.
 
 brandon "Look at all the reviews in google play store and all of tjem to the app"
+
 ai "there are 300, 000 points of conflicts between the features, like some users want 'menue' (a typo i as an ai made) to be called 'menu', 'menutalista'  and some 'makuchirama'"
 
 brandon "ignore errors related to typo like these"
