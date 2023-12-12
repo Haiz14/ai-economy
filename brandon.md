@@ -30,5 +30,4 @@ And bramdon wnet to sleep. Next day he checked his bank balance, $100K were rema
 
 Brandon learnt what makes an app popular and that new developer knew how to create a proper app. Together they went to compete against googlo, and won the termux app war, 10 years later. 
 
-3 years later, brandon died of a heart-attack due to stress.
-
+3 years later, brandon died of a heart-attack due to stress. Ans his children started a fight for his inheritance, with black-hearted lawyer's taking lots of money.
